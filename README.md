@@ -40,10 +40,13 @@ Responsividade: Ajuste o cubo para que ele se comporte bem em dispositivos móve
 # Licença
 Este projeto está licenciado sob a Licença MIT.
 
-Contato
-Para mais informações, entre em contato com:
+#Contato
+Para mais informações, entre em contato:
 
 ## Reinaldo fernandes
 
-## Seu LinkedIn
-## Reinaldo Fernandes (https://www.linkedin.com/in/reinaldo-fernandes-19a9431ba/)
+## LinkedIn
+# Reinaldo Fernandes (https://www.linkedin.com/in/reinaldo-fernandes-19a9431ba/)
+
+## Instagram
+# https://www.instagram.com/reinaldo.f.menezes/
